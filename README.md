@@ -8,4 +8,4 @@ Students:
 Research Lead:
 - Yasemin Ateş
 
-Just what it sounds like: Air Drums. Powered by Arduino Micro.
+Air Drums. Powered by Arduino.
